@@ -164,7 +164,7 @@ export default function Step9() {
         art_heizung: userData.step5,
         leadherkunft: "http://stahlbetonhaus.solar-pvcheck.de",
         Bemerkungen: calculatedDa,
-        project:"stahlbetonhaus"
+        project:"livelikearchi"
       };
 
 
